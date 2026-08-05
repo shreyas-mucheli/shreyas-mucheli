@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shreyas-mucheli">GitHub</a>
+  <a href="mailto:m.d.shreyas210@gmail.com">Email</a>
   ·
   <a href="https://www.linkedin.com/in/shreyas-mucheli">LinkedIn</a>
   ·
-  <a href="mailto:m.d.shreyas210@gmail.com">Email</a>
+  <a href="https://x.com/shreyasmucheli">Twitter</a>
+  ·
+  <a href="https://github.com/shreyas-mucheli">GitHub</a>
+  ·
+  <a href="https://www.instagram.com/mdshreyas">Instagram</a>
 </p>
 
 ## About
