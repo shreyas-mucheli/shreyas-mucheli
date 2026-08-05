@@ -51,14 +51,17 @@ My work there included:
 
 ## Core Stack
 
-```text
-Java • Spring Boot • Python • PostgreSQL • MongoDB • Redis
-Kafka • Google Cloud Pub/Sub • Docker • Kubernetes • Helm
-AWS • GCP • Terraform • GitHub Actions • Prometheus • Grafana
-HLS • DASH • RTMPS
-```
+- Languages: Java, Python
+- Backend: Spring Boot, Hibernate, REST APIs, Microservices
+- Data: PostgreSQL, MongoDB, Redis, Elasticsearch, Meilisearch
+- Distributed systems: Apache Kafka, Google Cloud Pub/Sub, event-driven architecture
+- Cloud and infrastructure: AWS, GCP, Docker, Kubernetes, Helm, Terraform
+- Observability: Prometheus, Grafana, Loki, structured logging
+- Media and streaming: HLS, DASH, RTMPS, transcoding, live streaming
 
 ## Connect
 
 - LinkedIn: <a href="https://www.linkedin.com/in/shreyas-mucheli">shreyas-mucheli</a>
+- Twitter: <a href="https://x.com/shreyasmucheli">@shreyasmucheli</a>
+- Instagram: <a href="https://www.instagram.com/mdshreyas">mdshreyas</a>
 - Email: <a href="mailto:m.d.shreyas210@gmail.com">m.d.shreyas210@gmail.com</a>
