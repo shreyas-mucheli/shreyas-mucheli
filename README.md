@@ -30,7 +30,7 @@ My work has centered on:
 
 ## What I Work On
 
-### Senior Software Engineer, ShriAikyam
+### Senior Software Engineer, Aikyam
 
 I work on backend and platform systems for a large media-heavy social platform. Recent work includes:
 
