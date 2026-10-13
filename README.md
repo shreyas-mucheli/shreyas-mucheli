@@ -55,10 +55,10 @@ My work there included:
 
 ## Core Stack
 
-- Languages: Java, Python
+- Languages: Java, Python, Ryst, Shell, Bash
 - Backend: Spring Boot, Hibernate, REST APIs, Microservices
 - Data: PostgreSQL, MongoDB, Redis, Elasticsearch, Meilisearch
-- Distributed systems: Apache Kafka, Google Cloud Pub/Sub, event-driven architecture
+- Distributed systems: Apache Kafka, Google Cloud Pub/Sub, ZooKeeper, event-driven architecture
 - Cloud and infrastructure: AWS, GCP, Docker, Kubernetes, Helm, Terraform
 - Observability: Prometheus, Grafana, Loki, structured logging
 - Media and streaming: HLS, DASH, RTMPS, transcoding, live streaming
