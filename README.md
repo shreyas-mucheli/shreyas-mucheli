@@ -55,7 +55,7 @@ My work there included:
 
 ## Core Stack
 
-- Languages: Java, Python, Ryst, Shell, Bash
+- Languages: Java, Python, Rust, Shell, Bash
 - Backend: Spring Boot, Hibernate, REST APIs, Microservices
 - Data: PostgreSQL, MongoDB, Redis, Elasticsearch, Meilisearch
 - Distributed systems: Apache Kafka, Google Cloud Pub/Sub, ZooKeeper, event-driven architecture
