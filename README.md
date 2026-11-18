@@ -22,7 +22,10 @@ I build backend and systems services that stay fast, reliable, and operable unde
 
 My work centers on:
 
-- Building high-throughput backend services and systems in **Java**, **Python**, and **Rust**
+- Building high-throughput backend services and distributed systems in **Java**, **Python**, and **Rust**
+- Migrating performance-critical services from Python to async **Rust (Tokio)** for enhanced concurrency, reliability, and execution efficiency
+- Modeling relationship networks with graph databases (**Neo4j**) and vector databases (**QDrant**) for semantic search and graph traversal
+- Developing high-throughput NLP and data ingestion pipelines in **Rust** and **Python** for entity resolution and recommendation systems
 - Architecting asynchronous and event-driven workflows with **Kafka**, **Google Cloud Pub/Sub**, and **KEDA**
 - Optimizing database access patterns and query execution (MongoDB, PostgreSQL, Neo4j, QDrant), slashing latencies from multi-second bottlenecks to sub-200ms paths
 - Engineering adaptive video streaming pipelines (HLS/DASH via FFmpeg & Shaka Packager) and live-streaming workflows over RTMPS
