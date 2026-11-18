@@ -20,19 +20,19 @@
 
 I build backend and systems services that stay fast, reliable, and operable under production load. With 3+ years of experience across distributed systems, event-driven architectures, and cross-platform native software, I focus on system performance, scalability, and end-to-end technical ownership.
 
-> Currently building ETL pipelines at a confidential company. Previously at **ShriAikyam**, **ShepherdWatch**, and **SmartGraph**.
+> Currently building ETL pipelines at a Confidential company. Previously at **ShriAikyam**, **ShepherdWatch**, and **SmartGraph**.
 
 My work centers on:
 
 - Building high-throughput backend services and distributed systems in **Java**, **Python**, and **Rust**
+- Engineering adaptive video streaming pipelines (HLS/DASH via FFmpeg & Shaka Packager) and live-streaming workflows over RTMPS
+- Architecting asynchronous and event-driven workflows with **Kafka**, **Google Cloud Pub/Sub**, and **KEDA**
+- Optimizing database access patterns and query execution (MongoDB, PostgreSQL), slashing latencies from multi-second bottlenecks to sub-200ms paths
+- Driving platform reliability, CI/CD automation, and observability with Prometheus, Grafana, and Loki
+- Developing native cross-platform agents and components with **Rust** via **JNI/FFI**
 - Migrating performance-critical services from Python to async **Rust (Tokio)** for enhanced concurrency, reliability, and execution efficiency
 - Modeling relationship networks with graph databases (**Neo4j**) and vector databases (**QDrant**) for semantic search and graph traversal
 - Developing high-throughput NLP and data ingestion pipelines in **Rust** and **Python** for entity resolution and recommendation systems
-- Architecting asynchronous and event-driven workflows with **Kafka**, **Google Cloud Pub/Sub**, and **KEDA**
-- Optimizing database access patterns and query execution (MongoDB, PostgreSQL, Neo4j, QDrant), slashing latencies from multi-second bottlenecks to sub-200ms paths
-- Engineering adaptive video streaming pipelines (HLS/DASH via FFmpeg & Shaka Packager) and live-streaming workflows over RTMPS
-- Developing native cross-platform agents and components with Rust via JNI/FFI
-- Driving platform reliability, CI/CD automation, and observability with Prometheus, Grafana, and Loki
 
 ## Core Stack & Skills
 
@@ -46,12 +46,12 @@ My work centers on:
 - **AI/ML & Data:** GenAI, LLMs, RAG, MCP, Vector Embeddings, TensorFlow, GANs, CLIP, Prompt Engineering, Airbyte, Apache Superset, Trino
 - **Engineering Practices:** System Design (HLD/LLD), Design Patterns, Profiling, Benchmarking, API Optimization, Performance Engineering
 
-## Publications & Research
+## IEEE Publications & Research
 
 - **A Comparative Analysis on the Effectiveness of GAN Performance**  
-  *International Conference on Computing and Networking Technology (ICCNT) — IEEE*
+  *International Conference on Computing and Networking Technology (ICCNT)*
 - **A Study on Machine Learning Based Diabetic Retinopathy**  
-  *International Conference on Inventive Computation Technologies (ICICT) — IEEE*
+  *International Conference on Inventive Computation Technologies (ICICT)*
 
 ## Education
 
