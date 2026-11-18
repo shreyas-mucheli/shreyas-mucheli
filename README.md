@@ -20,7 +20,7 @@
 
 I build backend and systems services that stay fast, reliable, and operable under production load. With 3+ years of experience across distributed systems, event-driven architectures, and cross-platform native software, I focus on system performance, scalability, and end-to-end technical ownership.
 
-> Currently building ETL pipelines at a Confidential company. Previously at **ShriAikyam**, **ShepherdWatch**, and **SmartGraph**.
+> Currently building ETL pipelines at a Confidential company. Previously worked at **ShriAikyam**, **ShepherdWatch**, and **SmartGraph**.
 
 My work centers on:
 
