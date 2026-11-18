@@ -66,6 +66,7 @@ My work centers on:
 
 - **Primary & Secondary Education (Grades 1–12)**  
   *Kendriya Vidyalaya Indian Institute of Science (KVIISc, Bengaluru, India)*  
+  *CGPA: 8.67 | 2006 – 2018*  
   - **Activities & Societies:** Coding · Science · Mathematics · Chess · Art & Design · Scouts · Taekwondo · Athletics · Basketball · Kabaddi
 
 ## Connect
