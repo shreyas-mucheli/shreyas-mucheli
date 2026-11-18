@@ -58,6 +58,15 @@ My work centers on:
 - **Bachelor of Engineering (B.E.), Computer Science and Engineering**  
   *Visvesvaraya Technological University (Dr. Ambedkar Institute of Technology, Bengaluru)*  
   *CGPA: 8.67 | 2019 – 2023*
+  - **Activities & Societies:**
+    - CSE Department: Class Representative & Placement Coordinator
+    - Industrial Visit: Head & Coordinator
+    - Coding Club: General Secretary
+    - Student Innovation Club: Lead
+
+- **Primary & Secondary Education (Grades 1–12)**  
+  *Kendriya Vidyalaya Indian Institute of Science (KVIISc, Bengaluru, India)*  
+  - **Activities & Societies:** Coding · Science · Mathematics · Chess · Art & Design · Scouts · Taekwondo · Athletics · Basketball · Kabaddi
 
 ## Connect
 
